@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/ryanvade/enforce-pr-description-length-action#readme",
   "dependencies": {
-    "@actions/core": "^1.10.1",
+    "@actions/core": "^1.11.1",
     "@actions/github": "^6.0.0",
     "@octokit/webhooks": "^13.3.0",
     "@types/jest": "^29.5.12",
